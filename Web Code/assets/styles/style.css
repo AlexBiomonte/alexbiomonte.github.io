@@ -1,0 +1,138 @@
+/* Tags */
+
+a{
+
+    color: #FFFAE8;
+    text-decoration: none;
+
+}
+
+
+body{
+
+    
+color: #FFFAE8;
+background-color: #D65151;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-shadow: 3px 2px #061724;
+line-height: 1.5;
+text-align: center;
+font-size: 150%;
+
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+}
+
+footer{
+    
+    background-color: #22333b;
+    color: #f2f4f3 ;
+    font-size: .35em;
+    margin-top: auto;
+    padding: 1.11em 0;
+    box-shadow: 0 0 6px #000;
+
+}
+
+header{
+
+    background-color:#A12828;
+    padding: 50px 50px 0px 50px;
+    box-shadow: 0 0 6px #000;
+    border-bottom: 3px solid #13123C;
+    margin-bottom: 2em;
+}
+
+header li{
+
+display: inline;
+padding-left: 0px;
+
+
+}
+
+.Button{
+
+    background-color: #0B2B42;
+    border: 2px solid #13123C ;
+    border-top-right-radius: .25em;
+    border-top-left-radius: .25em;
+    padding: .40em 1em;
+    
+    }
+
+    .Button:hover{
+
+        background-color: #13123C;
+        
+        }
+
+.emphasise{
+
+    font-size: 200%;
+    background-color: #0B2B42;
+    border: 2px solid #13123C ;
+    border-top-right-radius: .25em;
+    border-top-left-radius: .25em;
+    padding: .07em 1em;
+    margin-left: 0.7em;
+    margin-right: 0.7em;
+}
+
+.emphasise:hover{
+
+    background-color: #13123C;
+    
+    }
+
+
+.ArticleTitle{
+
+    background-color:#0B2B42;
+    padding: .25em 1.5em 0.25em 1.5em;
+    box-shadow: 0 0 6px #000;
+    border-bottom: 2px solid #13123C;
+    border-top:2px solid #13123C ;
+    margin-bottom: 0.5em;
+
+}
+
+.About-topic{
+
+    color: #FFFAE8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    text-align: right;
+    text-shadow: none;
+    font-size: 80%;
+    
+    
+    
+    }
+
+.vl{
+
+border-left: #0B2B42 solid 6px;
+
+}
+
+.Thought-topic{
+
+    color: #FFFAE8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    text-align: left;
+    text-shadow: none;
+    font-size: 80%;
+    margin-left: 2em;
+
+
+}
+
+.title{
+
+text-shadow: 2px 2px #13123C;
+}
+
+
