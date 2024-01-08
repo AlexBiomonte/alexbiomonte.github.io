@@ -135,4 +135,20 @@ border-left: #0B2B42 solid 6px;
 text-shadow: 2px 2px #13123C;
 }
 
+.ArticleIMG {
+    
+display: block;
+width: 100%;
+border-radius: 8px;
+}
 
+
+.ArchiveQuarter{
+
+    background-color:#0B2B42;
+    display: block;
+    padding: 5em 5em 5em 5em;
+    border-radius: 6px;
+
+
+}
